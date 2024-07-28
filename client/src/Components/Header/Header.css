@@ -1,0 +1,40 @@
+.header {
+  position: relative;
+  top: 0%;
+  left: 0%;
+  z-index: 99;
+  width: 100%;
+}
+
+.topbar {
+  width: 100%;
+  background-color: #eff2f3;
+  position: relative;
+  font-size: 12px;
+}
+
+.topbarleft {
+  margin-left: 150px;
+  display: flex;
+  width: 35%;
+  font-size: 12px;
+}
+
+.topbarleft p {
+  font-size: small;
+  padding: 5px;
+  margin-left: 13px;
+}
+
+.topbarright {
+  position: absolute;
+  top: 0%;
+  left: 70%;
+  width: 30%;
+}
+
+.topbarright ul li {
+  list-style-type: none;
+  padding: 5px;
+  display: inline-block;
+}

@@ -1,0 +1,29 @@
+.featured-products {
+  text-align: center;
+  background: white;
+  padding: 20px;
+  padding-top: 10%;
+
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.featured-products h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.featured-products hr {
+  width: 12%;
+  border: 1px solid #ebedee;
+  margin: 10px auto;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif;
+  padding-bottom: 2%;
+}
